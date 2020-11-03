@@ -5,7 +5,15 @@ Meal App (Android + iOS)
 
 
 
+
+
+
+
+
 ![Screenshot_20200919-134647](https://user-images.githubusercontent.com/50584809/98019644-d3246b00-1e23-11eb-9a1c-fdf7eb5577af.jpg)
+
+
+
 
 
 
@@ -15,7 +23,13 @@ Meal App (Android + iOS)
 
 
 
+
+
+
 ![Screenshot_20200919-134714](https://user-images.githubusercontent.com/50584809/98019728-ef280c80-1e23-11eb-85b5-2a4c60dee4b2.jpg)
+
+
+
 
 
 
@@ -25,7 +39,12 @@ Meal App (Android + iOS)
 
 
 
+
+
+
 ![Screenshot_20200919-134745](https://user-images.githubusercontent.com/50584809/98019851-1252bc00-1e24-11eb-916d-a0972ee7d6b9.jpg)
+
+
 
 
 
