@@ -1,4 +1,4 @@
-Meal App (Android + iOS)
+# Meal App (Android + iOS)
 
 
 ![Screenshot_20200919-134644](https://user-images.githubusercontent.com/50584809/98019514-a83a1700-1e23-11eb-9a6d-152be93e2021.jpg)
